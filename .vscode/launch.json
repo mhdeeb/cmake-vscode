@@ -1,7 +1,4 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
@@ -26,7 +23,7 @@
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "C:/FAST/MSYS2/usr/bin/gdb.exe",
+            "miDebuggerPath": "path/MSYS2/usr/bin/gdb.exe",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",
